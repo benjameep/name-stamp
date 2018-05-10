@@ -1,12 +1,12 @@
 {
   "name": "name-stamp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Naming files with timestrings is boring, so I wrote this 10 line module to give me a random name based on the timestamp",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["timestamp","random","stamp","time","name","filename","generator"],
   "author": "Benjamin Earl",
   "license": "ISC"
 }
