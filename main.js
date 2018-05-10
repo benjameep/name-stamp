@@ -8,5 +8,3 @@ module.exports = function(){
   }
   return n.slice(-2).map(i => words[i].slice(0,1).toUpperCase() + words[i].slice(1)).join('')
 }
-
-console.log(module.exports())
